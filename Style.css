@@ -1,0 +1,146 @@
+.bg-image{
+    background-image: url(./Images/BG.jpg);
+    height: 800px;   
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:black
+}
+.buttn{
+    background-color: rgb(156, 113, 32);
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+.buttn:hover{
+    background-color: transparent;
+    border: 1px solid rgb(124, 87, 17);
+    transition: 1s;
+}
+.head1{
+    font-size: 4em;
+}
+.lname{
+    color: gray;
+}
+.nav-item{
+    padding: 10px;
+}
+.pera1{
+    color: gray;
+}
+.row{
+    height: 30vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.row div{
+    width: 300px;
+    height: 180px;
+}
+.row1{
+    display: flex;
+    padding-top: 150px;
+    
+}
+.head5{
+    color: gray;
+}
+.head4{
+    font-size: 3.5em;
+}
+.main{
+    background-color: #090d0e;
+    height: 900px;
+}
+.heed{
+    font-size: 4em;
+    margin-top: 100px;
+}
+.bgimg3{
+    background-color: #090d0e;
+    margin-top: 120px;
+}
+.pera3{
+    margin-top: 100px;
+}
+.text{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
